@@ -2,7 +2,7 @@ var http = require('http'); // To start the server
 
 var url = 'http://api.openweathermap.org/data/2.5/forecast?id=1253573&APPID=56e2043a628c776ab619d9d393c2b568&units=metric'; // API Request URL
 
-var port = 8081; // Port number
+var port = process.env.PORT || 8081; // Port number
 
 // Creating server
 var server = http.createServer(function (request, response) {
