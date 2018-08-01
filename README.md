@@ -10,3 +10,10 @@ Install all packages with ``` npm install ```
 Execute command : ```node app.js``` from command line. <br>
 Go to your Browser and enter address as ```localhost:8081```
 After successful run, go back to command line and stop the execution using CTRL + C.
+
+# Resources
+- Get access to amazing API's [here](https://github.com/toddmotto/public-apis)
+- Improve your Node Skills [here](https://www.edx.org/course/introduction-to-nodejs-0)
+
+We'll be adding more soon.
+Have fun :sparkles:
